@@ -17,5 +17,5 @@ MIT
 
 ### Boilerplate generated with create-electron-react-app
 
-`@failip420/create-electron-react-app-ts exampleapp npm`
+`@failip420/create-electron-react-app exampleapp npm`
 For NPM
