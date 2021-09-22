@@ -1,6 +1,6 @@
 # Trading-App
 
-Native trading app & bot written in Electron (and React + TypeScript) and using trading view lightweight charts
+Native trading app & bot written in Electron (and React + JavaScript) and using trading view lightweight charts
 
 ---
 
