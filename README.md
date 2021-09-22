@@ -4,8 +4,10 @@ Native trading app & bot written in Electron (and React + JavaScript) and using 
 
 ---
 
--   Use "npm run start" to run the app on the browser
--   Use "npm run electron:serve" to run the app on an electron window
+### Use
+
+-   Use `$ npm run start` to run the app on the browser
+-   Use `$ npm run electron:serve` to run the app on an electron window
 
 ---
 
@@ -17,5 +19,4 @@ MIT
 
 ### Boilerplate generated with create-electron-react-app
 
-`@failip420/create-electron-react-app exampleapp npm`
-For NPM
+`$ npx @failip420/create-electron-react-app exampleapp npm`
